@@ -3,6 +3,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ArcGIS artifacts, data
+*.aprx
+*.atbx
+*.xml
+.pyHistory
+*.csv
+*.zip
+*.gdb/
+.backups/
+GpMessages/
+ImportLog/
+Index/
+
 # C extensions
 *.so
 
